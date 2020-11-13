@@ -1,0 +1,13 @@
+C:\Users\Bossu\Documents\Unreal Projects\Devoir_UE4\Intermediate\Build\Win64\UE4Editor\Development\Devoir_UE4\Definitions.Devoir_UE4.h
+C:\Users\Bossu\Documents\Unreal Projects\Devoir_UE4\Source\Devoir_UE4\Devoir_UE4GameMode.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Bossu\Documents\Unreal Projects\Devoir_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Devoir_UE4\Devoir_UE4GameMode.generated.h
+C:\Users\Bossu\Documents\Unreal Projects\Devoir_UE4\Source\Devoir_UE4\Devoir_UE4Character.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Bossu\Documents\Unreal Projects\Devoir_UE4\Intermediate\Build\Win64\UE4Editor\Inc\Devoir_UE4\Devoir_UE4Character.generated.h

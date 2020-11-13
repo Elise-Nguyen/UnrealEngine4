@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Devoir_UE4",
+			"Path": "C:\\Users\\Bossu\\Documents\\Unreal Projects\\Devoir_UE4\\Source\\Devoir_UE4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Devoir_UE4Editor",
+			"Path": "C:\\Users\\Bossu\\Documents\\Unreal Projects\\Devoir_UE4\\Source\\Devoir_UE4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
