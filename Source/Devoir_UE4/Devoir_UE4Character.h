@@ -18,6 +18,7 @@ class ADevoir_UE4Character : public ACharacter
 	/** Follow camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class UCameraComponent* FollowCamera;
+
 public:
 	ADevoir_UE4Character();
 
@@ -28,6 +29,8 @@ public:
 	/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
+
+	int life;
 
 protected:
 
@@ -57,6 +60,15 @@ protected:
 
 	/** Handler for when a touch input stops. */
 	void TouchStopped(ETouchIndex::Type FingerIndex, FVector Location);
+
+	//Se soigne quand il entre dans une zone de soin
+	void Heal();
+
+	//Se blesse quand il entre dans une zone de dégât
+	void Hurt();
+
+	//Se fait One shot
+	void OneShot();
 
 protected:
 	// APawn interface
